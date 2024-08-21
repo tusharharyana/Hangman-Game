@@ -23,6 +23,7 @@ This Python project is a classic Hangman game that fetches words from the Datamu
 
    ```bash
    git clone https://github.com/tusharharyana/Hangman-Game.git
+   cd Hangman-Game
 2. Make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
 3. **Install the required packages:**
